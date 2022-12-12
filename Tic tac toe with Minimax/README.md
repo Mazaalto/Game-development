@@ -1,5 +1,13 @@
 # Memo by Mazaalto
 
+I collect games here, that I have developed in my free time. Usually the reason is to have some fun with the kids or try out something new.
+
+## Turtle race!
+
+My godson likes to always ask: who is the fastest! So I found a Rasperry Pi project, that teaches how to make a turlte race game where one can compete
+each other.
+
+## Tic-tac-toe 
 This is a tutorial project made by Leodanis Pozo Ramos and the original code is distributed under the MIT license.
 I wanted to learn python and Tkinter and have a inital skeleton to build my own games. I would like to code Ben Orlin's
 ultimate Tic tac toe from the book Math with Bad Drawings and I will use the tutorial in order to achieve results more quickly.
